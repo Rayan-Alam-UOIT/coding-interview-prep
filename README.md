@@ -15,7 +15,25 @@ This repository documents my progress in data structures, algorithms, problem-so
 ## Progress Dashboard
 
 <!-- STATS_START -->
-_Statistics will appear after the first synchronization._
+### Solution Overview
+
+| Metric | Count |
+|---|---:|
+| **Total platform-specific problems** | **1** |
+| LeetCode problems | 1 |
+| NeetCode problems | 0 |
+| Solution code files | 1 |
+| Programming languages | 1 |
+
+### Programming Languages
+
+| Language | Files | Share |
+|---|---:|---:|
+| Python | 1 | 100.0% |
+
+*Last updated: November 17, 2026 at 17:07 UTC*
+
+> Counts are based on solution folders and recognized source files. The same problem solved on both platforms is counted separately.
 <!-- STATS_END -->
 
 The statistics above are generated automatically from the synchronized solution files.

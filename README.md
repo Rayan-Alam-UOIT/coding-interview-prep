@@ -5,7 +5,7 @@ A centralized collection of my **LeetCode** and **NeetCode** solutions, automati
 
 This repository documents my progress in data structures, algorithms, problem-solving, and technical interview preparation.
 
-[![Sync Status](https://github.com/Rayan-Alam-UOIT/coding-interview-prep/actions/workflows/sync-solutions.yml/badge.svg)](https://github.com/Rayan-Alam-UOIT/coding-interview-prep/actions/workflows/sync-solutions.yml)
+[![Sync Status](https://github.com/Rayan-Alam-UOIT/coding-interview-prep/actions/workflows/sync_solutions.yml/badge.svg)](https://github.com/Rayan-Alam-UOIT/coding-interview-prep/actions/workflows/sync_solutions.yml)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solutions-FFA116?logo=leetcode&logoColor=white)](https://github.com/Rayan-Alam-UOIT/leetcode-solutions)
 [![NeetCode](https://img.shields.io/badge/NeetCode-Submissions-2563EB)](https://github.com/Rayan-Alam-UOIT/neetcode-submissions)
 ![Auto Sync](https://img.shields.io/badge/Auto_Sync-Every_15_Minutes-2088FF?logo=githubactions&logoColor=white)
